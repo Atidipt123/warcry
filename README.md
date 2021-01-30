@@ -9,7 +9,7 @@ Bot's Prefix is `$`
 
 ## Features  
 ### Memes  
-Get memes from **[Reddit](https://reddit.com)** in discord. `$meme`  
+`$meme`  
 
 ### Modmail
 `$lock` , `$reply`   
